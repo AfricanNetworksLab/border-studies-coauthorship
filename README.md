@@ -5,4 +5,4 @@ The database contains the year, issue, names, and country of residence at the ti
 
 Because our goal was to understand how border scholars publish together, we selected only full papers and did not take book reviews, commentaries, obituaries and other short articles into account. The Border Studies Co-authorship (BSC) dataset contains 740 different authors from 32 countries
 
-If using the BSC dataset in any way, the data must be clearly acknowledged with a full citation: Walther O, Klatt M, Boedeltje F (2019) Mapping international co-authorship networks in border studies (1986-2018). Journal of Borderlands Studies. DOI:10.1080/08865655.2019.1685402.
+If using the BSC dataset in any way, the data must be clearly acknowledged with a full citation: Walther, O., Klatt, M., & Boedeltje, F. (2021). Mapping international co-authorship networks in Border Studies (1986–2018). Journal of Borderlands Studies, 36(4), 653-674. https://www.tandfonline.com/doi/full/10.1080/08865655.2019.1685402.
